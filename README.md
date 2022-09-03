@@ -40,19 +40,15 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
-education:
+```
+Role: Full Stack Developer
+Education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "The Hong Kong University of Science and Techonlogy",
+    "Bachelor's in Computer Science",
   ]
-company: Soulber
 
-fields_of_interests:
+Fields_of_interests:
   [
     "Web Development",
     "Data Science",
