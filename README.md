@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
-  Visitor count<br>
+  <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
