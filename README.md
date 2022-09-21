@@ -18,11 +18,6 @@
 
 ```
 Role: Full Stack Developer
-Education:
-  [
-    "The Hong Kong University of Science and Techonlogy",
-    "Bachelor's in Computer Science",
-  ]
 
 Fields_of_interests:
   [
