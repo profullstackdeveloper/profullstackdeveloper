@@ -46,6 +46,7 @@ Fields_of_interests:
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwindcss" width="135" height="45" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
       <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="bootstrap" width="45" height="45" />0
+      <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" />
     </div>
   </div>
   <div>
@@ -66,6 +67,8 @@ Fields_of_interests:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
       <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" alt="solidity" width="70" height="45"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="45" height="45"/>
+      <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="45" />
+      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />
     </div>
   </div>
   <div>
