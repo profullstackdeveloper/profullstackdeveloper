@@ -1,5 +1,3 @@
-<h1>fashion_star#8163</h1>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
